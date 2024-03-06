@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Taiwo Yusuf Sunday
 - 👀 I’m interested in Frontend developer job
-- 🌱 I’m currently learning typescript
+- 🌱 I’m currently learning php
 - 💞️ I’m looking job, internship, junior or entry level Front-end developer
+- Tech stack: (html, css, tailwind, bootstrap, reactjs, framer motion, redux, react query, php procedural)
 - 📫 How to reach me
 -  +2349032765986
 -  tysoab@gmail.com
